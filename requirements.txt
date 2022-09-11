@@ -1,8 +1,5 @@
 pandas
 numpy
 matplotlib
-requests
-io
 panel
 holoviews
-watermark
