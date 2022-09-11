@@ -1,8 +1,8 @@
 pandas
-numpy==1.21.5
-matplotlib==3.5.1
-requests==2.27.1
-io==unknown
-panel==0.13.0
-holoviews==1.14.8
-watermark==2.3.1
+numpy
+matplotlib
+requests
+io
+panel
+holoviews
+watermark
